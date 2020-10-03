@@ -10,7 +10,7 @@ The program is my own with the guidance of:
 https://www.programiz.com/python-programming/json ,
 https://www.geeksforgeeks.org/append-to-json-file-using-python/ ,
 https://stackoverflow.com/questions/21035762/python-read-json-file-and-modify ,
-https://www.w3schools.com/python/ref_file_seek.asp ,
+https://www.w3schools.com/python/ref_file_seek.asp , and
 https://www.tutorialspoint.com/python/dictionary_len.htm
 
 Developed on Visual Studio Code

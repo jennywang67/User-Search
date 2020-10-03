@@ -1,0 +1,14 @@
+{
+    "1": {
+        "user": "jpwang",
+        "code": "helloworld"
+    },
+    "2": {
+        "user": "haryin",
+        "code": "for(int i = 0; i <10; i++)"
+    },
+    "3": {
+        "user": "wampo",
+        "code": "while(true)"
+    }
+}
